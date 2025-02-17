@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TUIO Folder/TUIO11_NET/.vs/TUIO_CSHARP/FileContentIndex
+*.cache
+/Swipe right
+/Swipe left
+/Back
+/Zoom in
+/Zoom out
+/main2.py
+/hand_gesture_templates5 (1).csv
+/Select
+/Swipe up
+/TUIO Folder/WpfApp1/obj/Debug
+/TUIO Folder/TUIO11_NET/bin/Debug/3D_viewer/4 UpperJawScan.stl
+*.stl

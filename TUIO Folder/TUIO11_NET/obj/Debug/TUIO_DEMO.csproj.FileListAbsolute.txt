@@ -1,0 +1,126 @@
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\bin\Debug\TuioDemo.exe
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\bin\Debug\TuioDemo.pdb
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TuioDemo.exe
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TuioDemo.pdb
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\bin\Debug\NAudio.dll
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\bin\Debug\NAudio.xml
+C:\Users\ashra\Downloads\TUIO Folder\TUIO11_NET-1.1.5\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.resources
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.exe
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.pdb
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe.config
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.pdb
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.dll
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.pdb
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe.config
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\libTUIO.pdb
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.xml
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Administrator\Source\Repos\Interactive-Dental-Application2\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.Up2Date
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe.config
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.pdb
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.dll
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.pdb
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe.config
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\libTUIO.pdb
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.xml
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.resources
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.Up2Date
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.exe
+C:\Users\MSI SWORD\Source\Repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.pdb
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.resources
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe.config
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.pdb
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.dll
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.pdb
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe.config
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\libTUIO.pdb
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.xml
+<<<<<<< HEAD
+>>>>>>> 49ed941e3a8a07d7311462fc1b4b9c47f4786a97
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe.config
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.pdb
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.dll
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.dll
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.pdb
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe.config
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\libTUIO.pdb
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.xml
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.xml
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.resources
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.Up2Date
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.exe
+D:\First semester\HCI\CLONE\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.pdb
+=======
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.xml
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CopyComplete
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.exe
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.pdb
+>>>>>>> parent of 1a33d51 (Merge branch 'main' of https://github.com/AshrafHanyy/Interactive-Dental-Application)
+C:\Users\ashra\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\mohsen.Form2.resources
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe.config
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.pdb
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.dll
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.pdb
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe.config
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\libTUIO.pdb
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.xml
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\mohsen.Form2.resources
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.resources
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.Up2Date
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.exe
+C:\Users\Administrator\source\repos\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.pdb
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe.config
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.exe
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\TuioDemo.pdb
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.dll
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.pdb
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\WpfApp1.exe.config
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\libTUIO.pdb
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\bin\Debug\NAudio.xml
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\mohsen.Form2.resources
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.resources
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CopyComplete
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.exe
+C:\Users\John\OneDrive\Documents\GitHub\Interactive-Dental-Application\TUIO Folder\TUIO11_NET\obj\Debug\TuioDemo.pdb
