@@ -34,11 +34,7 @@ Data is collected, analyzed statistically, and visualized for insights.
 ---
 ## Demo Video
 
-[Graphica Demo - Watch here](https://drive.google.com/file/d/1i1xAoLpm78lDGzs20RfW0uXxkk8Fgxma/view?usp=drive_link)
+[Demo - Watch here](https://drive.google.com/file/d/1i1xAoLpm78lDGzs20RfW0uXxkk8Fgxma/view?usp=drive_link)
 
 
 
-## Demo Video
-
-[Graphica Demo - Watch here](https://drive.google.com/file/d/1RyEgW7C7JastskaQolwQ8UdCVStfiIaV/view?usp=drive_link)
----
